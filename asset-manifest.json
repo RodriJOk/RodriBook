@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RodriBook/static/css/main.11a6ac3d.chunk.css",
+    "main.js": "/RodriBook/static/js/main.58c597d8.chunk.js",
+    "main.js.map": "/RodriBook/static/js/main.58c597d8.chunk.js.map",
+    "runtime-main.js": "/RodriBook/static/js/runtime-main.a64fcde9.js",
+    "runtime-main.js.map": "/RodriBook/static/js/runtime-main.a64fcde9.js.map",
+    "static/js/2.69cc5110.chunk.js": "/RodriBook/static/js/2.69cc5110.chunk.js",
+    "static/js/2.69cc5110.chunk.js.map": "/RodriBook/static/js/2.69cc5110.chunk.js.map",
+    "static/js/3.374dae99.chunk.js": "/RodriBook/static/js/3.374dae99.chunk.js",
+    "static/js/3.374dae99.chunk.js.map": "/RodriBook/static/js/3.374dae99.chunk.js.map",
+    "index.html": "/RodriBook/index.html",
+    "static/css/main.11a6ac3d.chunk.css.map": "/RodriBook/static/css/main.11a6ac3d.chunk.css.map",
+    "static/js/2.69cc5110.chunk.js.LICENSE.txt": "/RodriBook/static/js/2.69cc5110.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a64fcde9.js",
+    "static/js/2.69cc5110.chunk.js",
+    "static/css/main.11a6ac3d.chunk.css",
+    "static/js/main.58c597d8.chunk.js"
+  ]
+}
